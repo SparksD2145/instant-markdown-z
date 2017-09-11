@@ -1,0 +1,51 @@
+{
+  "_from": "instant-markdown-x",
+  "_id": "instant-markdown-x@1.0.2",
+  "_inBundle": false,
+  "_integrity": "sha1-bxLK+/zYoJfin0xfKOMBFbNEF1A=",
+  "_location": "/instant-markdown-x",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "instant-markdown-x",
+    "name": "instant-markdown-x",
+    "escapedName": "instant-markdown-x",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/instant-markdown-x/-/instant-markdown-x-1.0.2.tgz",
+  "_shasum": "6f12cafbfcd8a097e29f4c5f28e30115b3441750",
+  "_spec": "instant-markdown-x",
+  "_where": "/Users/sparks/.nvm/versions/node/v8.4.0/lib/node_modules",
+  "author": {
+    "name": "Suan-Aik Yeo",
+    "email": "yeosuanaik@gmail.com"
+  },
+  "bin": {
+    "instant-markdown-x": "./instant_markdown_x"
+  },
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "XadillaX",
+      "email": "i@2333.moe"
+    }
+  ],
+  "dependencies": {
+    "highlight.js": "^9.3.0",
+    "markdown-it": "^6.0.1",
+    "send": "^0.13.2",
+    "socket.io": "^1.4.5"
+  },
+  "deprecated": false,
+  "description": "Instantly-updating Markdown Server.",
+  "main": "instant-markdown-x",
+  "name": "instant-markdown-x",
+  "preferGlobal": "true",
+  "version": "1.0.2"
+}
